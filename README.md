@@ -33,14 +33,6 @@ I am a solution-focused **Data Science Post-Graduate** specializing in transform
 
 My ML approach is robust, using **10-Fold Cross-Validation** to ensure the model generalizes well to new patient data.
 
-> **<img width="285" height="177" alt="image" src="https://github.com/user-attachments/assets/f46d9fff-be14-4650-81e6-c39d2b6355d3" />
-** A clean, high-resolution GIF or image showing the Confusion Matrix or a ROC curve for the Random Forest model.
-
-**<img width="800" height="1046" alt="image" src="https://github.com/user-attachments/assets/3da3d86f-2e78-4287-ba8e-a82c3e0d9d0a" />
-**
-
------
-
 ### 📞   Let's Connect
 
 I am actively looking for opportunities to contribute data-driven insights to a dynamic team.
