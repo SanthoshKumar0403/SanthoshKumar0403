@@ -1,4 +1,4 @@
-# ✨ S a n t h o s h   K u m a r ✨
+# ✨ S A N T H O S H   K U M A R ✨
 
   <h1>Data Analyst </h1\>
 
