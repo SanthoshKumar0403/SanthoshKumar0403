@@ -33,18 +33,11 @@ I am a solution-focused **Data Science Post-Graduate** specializing in transform
 
 My ML approach is robust, using **10-Fold Cross-Validation** to ensure the model generalizes well to new patient data.
 
-> **Visual Placeholder:** A clean, high-resolution GIF or image showing the Confusion Matrix or a ROC curve for the Random Forest model.
+> **<img width="285" height="177" alt="image" src="https://github.com/user-attachments/assets/f46d9fff-be14-4650-81e6-c39d2b6355d3" />
+** A clean, high-resolution GIF or image showing the Confusion Matrix or a ROC curve for the Random Forest model.
 
-**[GIF/Image Placeholder: ML Model Evaluation Visual]**
-
------
-
-### 💾   My GitHub Stats
-
-\<p align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSanthoshKumar0403%26show\_icons%3Dtrue%26theme%3Dvue%26hide\_border%3Dtrue" alt="Santhosh's GitHub Stats"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSanthoshKumar0403%26layout%3Dcompact%26langs\_count%3D4%26theme%3Dvue%26hide\_border%3Dtrue" alt="Top Languages"\>
-\</p\>
+**<img width="800" height="1046" alt="image" src="https://github.com/user-attachments/assets/3da3d86f-2e78-4287-ba8e-a82c3e0d9d0a" />
+**
 
 -----
 
