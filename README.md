@@ -1,14 +1,7 @@
 # ✨ S A N T H O S H   K U M A R ✨
 
-\<h1 align="center"\>The Data Dynamo | Data Analyst / Business Analyst\</h1\>
+<h1>The Data Dynamo | Data Analyst / Business Analyst\</h1\>
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Location-Bengaluru%2C%20IN-0077B6?style=for-the-badge\&logo=googlemaps\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Location-Bengaluru%252C%2520IN-0077B6%3Fstyle%3Dfor-the-badge%26logo%3Dgooglemaps%26logoColor%3Dwhite)" alt="Bangalore"\>
-\<img src="[https://img.shields.io/badge/Current%20Focus-Profitability%20%26%20ML-FFB800?style=for-the-badge\&logo=googleanalytics\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/Current%2520Focus-Profitability%2520%2526%2520ML-FFB800%3Fstyle%3Dfor-the-badge%26logo%3Dgoogleanalytics%26logoColor%3Dblack)" alt="Data Science"\>
-\<img src="[https://img.shields.io/badge/Seeking%20Roles-Analyst%20%7C%20BI%20Dev-4C1C59?style=for-the-badge\&logo=powerbi\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Seeking%2520Roles-Analyst%2520%257C%2520BI%2520Dev-4C1C59%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dwhite)" alt="Data Analyst / Business Analyst / ML Engineer"\>
-\</p\>
-
------
 
 ### 👋   About Me
 
