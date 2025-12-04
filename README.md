@@ -1,5 +1,5 @@
 ## Santhosh Kumar
-Here is a **fantastic, modern, eye-catching README** with **beautiful graphics**, icons, badges, banners**, and perfect formatting for GitHub.
+📊🔍 A Certified Data Analyst from Imarticus Learning, Bangalore| Turning data into decisions. | Skilled in Python, SQL, Power-BI & Machine Learning |
 Just **copy → paste** into your README.md and replace your project details.
 
 ---
