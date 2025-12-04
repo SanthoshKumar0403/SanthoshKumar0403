@@ -1,6 +1,6 @@
-# ✨ 👋 Hello, I'm S A N T H O S H   K U M A R ✨
+# ✨ 👋 Hello, I'm  S a n t h o s h   K u m a r ✨
 
-                      <h1>Data Analyst </h1\>
+  <h1>Data Analyst </h1\>
 
 
 ### 👋 About Me
