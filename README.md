@@ -7,7 +7,7 @@
 
 I am a solution-focused **Data Science Post-Graduate** specializing in transforming raw, complex data into **clear, metric-driven business strategies**. My strength lies in bridging the gap between technical execution (ML/SQL) and stakeholder communication (Power BI).
 
-> *Fluent in Python, SQL, and advanced BI visualization. Ready to deliver immediate value in the Bangalore market.*
+> *Fluent in Python, SQL, and advanced BI visualization. Ready to deliver immediate value in the india and overseas market.*
 
 ### 🛠️   Core Technical Stack
 
