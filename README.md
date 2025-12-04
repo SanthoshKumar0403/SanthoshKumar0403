@@ -1,6 +1,6 @@
 # ✨ S A N T H O S H   K U M A R ✨
 
-<h1>The Data Dynamo | Data Analyst / Business Analyst\</h1\>
+<h1>Data Analyst / Business Analyst</h1\>
 
 
 ### 👋   About Me
