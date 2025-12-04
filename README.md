@@ -1,9 +1,9 @@
 # ✨ S A N T H O S H   K U M A R ✨
 
-<h1>Data Analyst / Business Analyst</h1\>
+ <h1>Data Analyst </h1\>
 
 
-### 👋   About Me
+### 👋 About Me
 
 I am a solution-focused **Data Science Post-Graduate** specializing in transforming raw, complex data into **clear, metric-driven business strategies**. My strength lies in bridging the gap between technical execution (ML/SQL) and stakeholder communication (Power BI).
 
@@ -57,7 +57,3 @@ I am actively looking for opportunities to contribute data-driven insights to a 
 | **LinkedIn** | https://www.linkedin.com/in/santhosh-kumar-690580384/ |
 | **Portfolio** | https://santhoshkumarimart.wixsite.com/myportfolio/ |
 | **Email** | santhoshnaikk871@gmail.com |
-
-\<p align="center"\>
-\<img src="[https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSanthoshKumar0403\&label=Profile%20Views\&color=blue](https://www.google.com/search?q=https://api.visitorbadge.io/api/visitors%3Fpath%3Dhttps%253A%252F%252Fgithub.com%252FSanthoshKumar0403%26label%3DProfile%2520Views%26color%3Dblue)" alt="Profile views count"\>
-\</p\>
