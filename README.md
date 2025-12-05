@@ -1,6 +1,6 @@
-<h1><p align="center">
+<h><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF00C8&center=true&vCenter=true&width=700&lines=+SANTHOSH+KUMAR+;Data+Analyst;Data+Science+Post+Graduate;Python+%7C+SQL+%7C+Power+BI+%7C+ML;.Transforming+Data+Into+Business+Decisions" />
-</p></h1>
+</p></h>
 
 ---
 
