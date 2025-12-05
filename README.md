@@ -89,9 +89,9 @@ I build dashboards that are:
 | Platform | Link |
 |---------|------|
 | **LinkedIn** | https://www.linkedin.com/in/santhosh-kumar-690580384/ |
-| **Portfolio** | https://santhoshkumarimart.wixsite.com/myportfolio/ |
+| **Portfolio** | https://analyst-vault.lovable.app |
 | **Email** | **santhoshnaikk871@gmail.com** |
-
+| **WhatsApp ** | **+91 7019479412** |
 ---
 
 <p align="center">
