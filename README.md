@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/SANTHOSH%20KUMAR-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDMTcuNTIyNyAyIDIgMiAyMCAyMCAyMCAyMCAyMCAyMCAyMCIgc3Ryb2tlPSIjRkZERjAwIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+"&logoColor=white&color=0A84FF&labelColor=000000" />
+<h1 align="center" style="font-size: 48px; font-weight: 900; background: linear-gradient(90deg,#00C6FF,#FFD700); -webkit-background-clip: text; color: transparent;">
+  SANTHOSH KUMAR
 </h1>
 
 
