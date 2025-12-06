@@ -1,6 +1,11 @@
 <h><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFD700&center=true&vCenter=true&width=700&lines=+SANTHOSH+KUMAR+;Data+Analyst;Data+Science+Post+Graduate;Python+%7C+SQL+%7C+Power+BI+%7C+ML;.Transforming+Data+Into+Business+Decisions" />
 </p></h>
+<h1 align="center">✨ SANTHOSH KUMAR ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=650&lines=Data+Analyst;Data+Science+Post+Graduate;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+Into+Business+Decisions" />
+</p>
 
 
 ---
