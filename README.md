@@ -1,11 +1,10 @@
-<pre align="center">
-███████╗ █████╗ ███╗   ██╗████████╗██╗  ██╗ ██████╗ ██╗  ██╗
-██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔═══██╗██║ ██╔╝
-███████╗███████║██╔██╗ ██║   ██║   ███████║██║   ██║█████╔╝ 
-╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║██║   ██║██╔═██╗ 
-███████║██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝██║  ██╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-</pre>
+<h1 align="center" style="font-size: 48px; font-weight: 900; background: linear-gradient(90deg,#00C6FF,#FFD700); -webkit-background-clip: text; color: transparent;">
+  SANTHOSH KUMAR
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=650&lines=Data+Analyst;Data+Science+Post+Graduate;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+Into+Business+Decisions" />
+</p>
 
 
 <p align="center">
