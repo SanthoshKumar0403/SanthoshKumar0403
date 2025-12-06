@@ -1,4 +1,7 @@
-<h1 align="center">✨ SANTHOSH KUMAR ✨</h1>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/SANTHOSH%20KUMAR-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDMTcuNTIyNyAyIDIgMiAyMCAyMCAyMCAyMCAyMCAyMCAyMCIgc3Ryb2tlPSIjRkZERjAwIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+"&logoColor=white&color=0A84FF&labelColor=000000" />
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=650&lines=Data+Analyst;Data+Science+Post+Graduate;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Transforming+Data+Into+Business+Decisions" />
