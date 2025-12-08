@@ -18,88 +18,122 @@ I combine strong technical execution (Python, SQL, ML) with effective communicat
 
 ---
 
-# 🛠️ Core Technical Stack
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00E6FE&center=true&vCenter=true&width=800&lines=SANTHOSH+KUMAR;Data+Analyst;Python+|+SQL+|+Power+BI+|+ML;Transforming+Data+Into+Business+Decisions">
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh-kumar-690580384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:santhoshnaikk871@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://analyst-vault.lovable.app"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=pinboard&logoColor=white"></a>
+  <a href="https://wa.me/917019479412"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,regex,tensorflow,linux,powershell,vscode" />
+  <img height="48" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg">
+  <img height="48" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=suku-na&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=suku-na&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suku-na&theme=react-dark&hide_border=true">
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suku-na/suku-na/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🧠 Core Technical Stack
 
 ### 💻 Data Scripting
-- **Python**: Pandas, NumPy  
-- **SQL**: Joins, CTE, Window Functions  
+- **Python:** Pandas, NumPy  
+- **SQL:** CTEs, Joins, Window Functions  
 
 ### 📊 Business Intelligence  
-- **Power BI**: DAX, Data Modeling  
-- **Tableau**: Dashboards & Stories  
+- **Power BI:** Advanced DAX, Star Schema  
+- **Tableau:** Stories & Dashboards  
 
-### 🧮 Machine Learning  
-- Scikit-Learn: Random Forest, PCA  
-- 10-Fold Cross-Validation for robust results  
+### 🤖 Machine Learning  
+- Scikit-Learn (Random Forest, PCA)  
+- **10-Fold Cross Validation**  
 
-### 🗄️ Databases & ETL  
-- RDBMS Design, SSOT models  
+### 🗄 Databases & ETL  
+- RDBMS Design  
+- SSOT structures  
 - BigQuery (conceptual)
 
 ---
 
 # 🏆 Project Impact Snapshot
 
-| Project | Tech Focus | Result |
-|--------|------------|--------|
-| **Heart Disease Prediction** | ML, Classification, CV | Achieved **82% accuracy** for clinical risk assessment |
-| **E-commerce Sales Analysis** | Power BI, Star Schema | Identified **negative-margin high-volume products** |
-| **Diwali Sales EDA** | Pandas, Seaborn, Segmentation | Found **high-value customer segment** (Married women 26–35) |
-| **Logistics DB Design** | SQL, Normalization | Built **Single Source of Truth (SSOT)** architecture |
-
----
-
-# 🧠 Deep Dive: Heart Disease Prediction Project
-
-- 🔍 Classification model using **Random Forest**  
-- 🔄 **10-Fold Cross-Validation** to avoid overfitting  
-- 📊 Metrics: Accuracy, Precision, Recall  
-- 🎯 Outcome: **~82% model accuracy** + strong generalization  
-
-This project demonstrates:
-- End-to-end ML skills  
-- Strong evaluation techniques  
-- Ability to explain insights to non-technical stakeholders  
+| Project | Focus | Result |
+|--------|--------|--------|
+| **Heart Disease Prediction** | ML, Cross-Validation | **82% Accuracy** |
+| **E-commerce Sales BI** | Power BI | Found **negative-margin SKUs** |
+| **Diwali Sales Analysis** | EDA | Identified **high-value segment** |
+| **Logistics DB Design** | SQL Architecture | Built **SSOT** data model |
 
 ---
 
 # 📈 Business Analytics Focus
 
-I help answer key business questions:
+I help answer:
+- Which customers drive long-term value?  
+- Where do we lose profit despite high sales?  
+- Which KPIs matter most for executives?  
+- How to automate insights for teams?  
 
-- Which products drive revenue vs. profit?  
-- Which customer segment should we target?  
-- How can dashboards be simplified for executives?  
-- Where are we losing margin despite high sales?  
-
-I build dashboards that are:
-- Clean  
-- Interactive  
-- KPI-oriented  
-- Decision-focused  
-
----
-
-# 📌 Current Focus
-
-- Building more **end-to-end ML + BI case studies**  
-- Advancing in **Power BI (advanced DAX)**  
-- Starting **time-series forecasting**  
-- Improving understanding of **cloud data tools**  
+Dashboards I build are:
+✔ Clean  
+✔ Interactive  
+✔ KPI-driven  
+✔ Actionable  
 
 ---
 
-# 🔗 Let's Connect
+# 🎯 Current Learning Roadmap
+
+- End-to-end **ML + BI case studies**  
+- Advanced **DAX & data modeling**  
+- Time series forecasting  
+- Cloud tools (BigQuery, Azure basics)  
+
+---
+
+## 🔗 Let's Connect
 
 | Platform | Link |
 |---------|------|
 | **LinkedIn** | https://www.linkedin.com/in/santhosh-kumar-690580384/ |
 | **Portfolio** | https://analyst-vault.lovable.app |
-| **Email** | **santhoshnaikk871@gmail.com** |
-| **WhatsApp ** | **+91 7019479412** |
+| **Email** | santhoshnaikk871@gmail.com |
+| **WhatsApp** | +91 7019479412 |
+
 ---
 
 <p align="center">
   🚀 <b>Open to roles: Data Analyst | Business Analyst | Junior Data Scientist</b><br>
-  <em>Let’s turn your data into dashboards, decisions, and growth.</em>
+  <i>Let’s turn your data into dashboards, decisions, and growth.</i>
 </p>
