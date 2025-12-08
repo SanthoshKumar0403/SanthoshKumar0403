@@ -89,6 +89,47 @@ I am a solution-focused **Data Science Post-Graduate** specializing in transform
 
 ---
 
+# 🏆 Featured Projects
+
+Below are your **rounded project cards** (top trending layout of 2025):
+
+<div align="center">
+
+<!-- Card 1 -->
+<a href="#" target="_blank">
+  <img src="THUMBNAIL_HEART_DISEASE" width="420px" style="border-radius: 16px; margin: 8px;">
+</a>
+
+<!-- Card 2 -->
+<a href="#" target="_blank">
+  <img src="THUMBNAIL_ECOMMERCE" width="420px" style="border-radius: 16px; margin: 8px;">
+</a>
+
+<!-- Card 3 -->
+<a href="#" target="_blank">
+  <img src="THUMBNAIL_DIWALI_EDA" width="420px" style="border-radius: 16px; margin: 8px;">
+</a>
+
+<!-- Card 4 -->
+<a href="#" target="_blank">
+  <img src="THUMBNAIL_LOGISTICS_DB" width="420px" style="border-radius: 16px; margin: 8px;">
+</a>
+
+</div>
+
+---
+
+# 📊 Project Summary (Professional Table)
+
+| Project | Tools Used | Impact |
+|--------|------------|--------|
+| **Heart Disease Prediction** | Python, ML, CV | Achieved **82% accuracy** using 10-fold CV |
+| **E-commerce Sales Intelligence** | Power BI, SQL | Identified **low-profit high-volume SKUs** |
+| **Diwali Sales EDA** | Pandas, Seaborn | Found **top customer segment (26–35 Married Women)** |
+| **Logistics SSOT Database** | SQL, ERD | Delivered **Single Source of Truth** model |
+
+---
+
 # 📈 Business Analytics Focus
 
 I help answer:
