@@ -78,17 +78,6 @@ I am a solution-focused **Data Science Post-Graduate** specializing in transform
 
 ---
 
-# 🏆 Project Impact Snapshot
-
-| Project | Focus | Result |
-|--------|--------|--------|
-| **Heart Disease Prediction** | ML, Cross-Validation | **82% Accuracy** |
-| **E-commerce Sales BI** | Power BI | Found **negative-margin SKUs** |
-| **Diwali Sales Analysis** | EDA | Identified **high-value segment** |
-| **Logistics DB Design** | SQL Architecture | Built **SSOT** data model |
-
----
-
 # 🏆 Featured Projects
 
 Below are your **rounded project cards** (top trending layout of 2025):
