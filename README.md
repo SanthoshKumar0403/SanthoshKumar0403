@@ -18,13 +18,6 @@ I combine strong technical execution (Python, SQL, ML) with effective communicat
 
 ---
 
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00E6FE&center=true&vCenter=true&width=800&lines=SANTHOSH+KUMAR;Data+Analyst;Python+|+SQL+|+Power+BI+|+ML;Transforming+Data+Into+Business+Decisions">
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-kumar-690580384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
