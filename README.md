@@ -80,8 +80,6 @@ I am a solution-focused **Data Science Post-Graduate** specializing in transform
 
 # 🏆 Featured Projects
 
-Below are your **rounded project cards** (top trending layout of 2025):
-
 <div align="center">
 
 <!-- Card 1 -->
